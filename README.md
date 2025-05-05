@@ -35,6 +35,6 @@ The analysis aims to challenge the assumption that higher-priced cars always imp
 
 ---
 
-**Author**: Thi Ngan Ha Do  
-**Email**: 103128918@student.swin.edu.au  
-**Course**: COS60008 – Swinburne University of Technology
+## Author
+**Thi Ngan Ha Do**  
+[GitHub](https://github.com/thinganhado) | [LinkedIn](#)  
